@@ -1,0 +1,97 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/list/32862204.5243.emory.edu$2",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5359c48e-b2ba-4d6d-9300-46e08f1cf1a7",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5359c48e-b2ba-4d6d-9300-46e08f1cf1a7' style='height: 44px; width: 142px; font-size: 27.5px; letter-spacing: -12.81578947368421px' data-letter-spacing='-0.09025203854707191'><span id='5359c48e-b2ba-4d6d-9300-46e08f1cf1a7' style='font-family: monospace; height: 44px; width: 142px; font-size: 27.194066749072924px'>VILLA</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$2",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1398,196,142,44",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "66c589c3-a795-44ab-9386-0f7582d32fe6",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='66c589c3-a795-44ab-9386-0f7582d32fe6' style='height: 44px; width: 44px; font-size: 27.5px; letter-spacing: -13.452702702702704px' data-letter-spacing='-0.30574324324324326'><span id='66c589c3-a795-44ab-9386-0f7582d32fe6' style='font-family: monospace; height: 44px; width: 44px; font-size: 27.194066749072928px'>DI</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$2",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1572,194,44,44",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ab869db9-b918-443e-8aa6-ed2bea383ee7",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ab869db9-b918-443e-8aa6-ed2bea383ee7' style='height: 44px; width: 244px; font-size: 27.5px; letter-spacing: -12.175806451612903px' data-letter-spacing='-0.049900846113167634'><span id='ab869db9-b918-443e-8aa6-ed2bea383ee7' style='font-family: monospace; height: 44px; width: 244px; font-size: 27.194066749072928px'>\u00abONDEGGI</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$2",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1648,192,244,44",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        }
+    ]
+}

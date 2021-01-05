@@ -1,0 +1,182 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://127.0.0.1:3000/annotations/jcmundy/32862204.5243.emory.edu/list/32862204.5243.emory.edu$9",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e371f283-1024-4885-91d1-b269e18b7d67",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>shape</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$9",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=491,1359,303,154",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M507.69619,1513.17716l245.53441,-154.17277l39.97072,131.33236l-274.08492,22.84041l-28.55051,-5.7101z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_0dbfcb18-377a-4b41-80d4-e90036a8c9f1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=491,1359,303,154"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b3951f38-a71d-4297-ab2e-5a3da5be1ef0",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>point</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$9",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1627,468,57,86",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1655.42679,553.87994c0,-19.03367 9.51684,-38.06735 28.55051,-57.10102c0,-15.76801 -12.7825,-28.55051 -28.55051,-28.55051c-15.76801,0 -28.55051,12.7825 -28.55051,28.55051c19.03367,19.03367 28.55051,38.06735 28.55051,57.10102z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_3a331487-e4ce-4842-9cb3-d30ba7808716\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1627,468,57,86"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "604fd466-bef4-4f49-9515-a6f7bed436be",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>squiggle</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$9",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=703,1618,878,935",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1101.54685,2381.11274c0,-1.90337 1.70242,-4.85889 0,-5.7101c-3.40485,-1.70242 -7.68739,0.74656 -11.4202,0c-63.37539,-12.67508 -131.69458,-14.73238 -188.43338,-45.68082c-12.04945,-6.57243 -23.04742,-14.92521 -34.26061,-22.84041c-21.15015,-14.92952 -44.91634,-26.97264 -62.81113,-45.68082c-36.42949,-38.08537 -77.85813,-100.15873 -91.36164,-154.17277c-5.55881,-22.23526 -4.99422,-45.61283 -5.7101,-68.52123c-1.18902,-38.04878 -9.45499,-77.32758 0,-114.20205c10.15036,-39.58642 33.17376,-75.36189 57.10102,-108.49195c79.14079,-109.57956 197.5003,-176.31873 331.18594,-194.14348c43.39343,-5.78579 87.73469,-3.96342 131.33236,0c40.52225,3.68384 82.69415,6.39525 119.91215,22.84041c46.35729,20.48346 86.39727,53.55837 125.62225,85.65154c23.98074,19.62061 45.11694,43.08583 62.81113,68.52123c28.54097,41.02764 34.4264,83.2816 39.97072,131.33236c7.47302,64.7662 5.7101,90.14161 5.7101,154.17277c0,72.7141 2.32877,130.69426 -39.97072,194.14348c-11.22329,16.83494 -26.13249,30.92004 -39.97072,45.68082c-14.72809,15.70996 -28.86548,32.22855 -45.68082,45.68082c-45.54022,36.43217 -99.83166,64.65107 -148.46266,97.07174c-11.4202,7.61347 -23.42646,14.41384 -34.26061,22.84041c-6.37426,4.95776 -10.67006,12.28512 -17.13031,17.13031c-8.87876,6.65907 -19.67176,10.47124 -28.55051,17.13031c-19.10398,14.32798 -14.17166,22.81739 -39.97072,28.55051c-9.29021,2.06449 -19.03367,0 -28.55051,0c-17.70424,0 -46.44314,1.56456 -62.81113,-5.7101c-7.37931,-3.27969 -11.4202,-11.4202 -17.13031,-17.13031c-17.64412,-17.64412 -19.61029,-17.99523 -34.26061,-39.97072c-2.36084,-3.54126 -3.34927,-7.87895 -5.7101,-11.4202c-1.49312,-2.23969 -4.85889,-3.15647 -5.7101,-5.7101c-1.2038,-3.61139 0,-7.61347 0,-11.4202c0,-3.83794 -1.68495,-13.76041 0,-17.13031c1.2038,-2.40759 4.21698,-3.47042 5.7101,-5.7101c4.72167,-7.08251 8.25888,-14.93711 11.4202,-22.84041c5.02191,-12.55477 13.94016,-42.49067 22.84041,-51.39092\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_28e17ab7-1547-49c9-aa9b-f6da0fa4bfc0\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=703,1618,878,935"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "09d0feb9-f1cc-4eb7-8e7c-0b32a2acda22",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>square</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$9",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1813,860,716,642",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1813.30966,860.22548h357.88141v0h357.88141v320.76574v320.76574h-357.88141h-357.88141v-320.76574z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d4cbf07a-4205-4d9e-b449-ac5220eab186\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.7101\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1813,860,716,642"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9f5a9f7f-3bf0-42bc-8a92-e305fb163779",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Circle</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$9",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=380,506,799,551",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M496.69869,586.57502c73.77924,-46.30244 177.8568,-80.78229 282.43872,-80.7411v0v0c104.58192,0.04119 195.69032,32.29654 282.43872,80.7411c86.7484,48.44455 120.46641,122.2647 116.98995,194.92625c-3.47646,72.66155 -44.14738,144.16451 -116.98995,194.92625c-72.84257,50.76175 -177.8568,80.78229 -282.43872,80.7411c-104.58192,-0.04119 -208.73154,-30.14413 -282.43872,-80.7411c-73.70718,-50.59697 -116.97194,-121.68798 -116.98995,-194.92625c-0.01801,-73.23828 43.21071,-148.62382 116.98995,-194.92625z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_2f449539-fe56-45ce-a9e7-db881621a6e9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.7101\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=380,506,799,551"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

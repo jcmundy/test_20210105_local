@@ -1,0 +1,757 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/list/32862204.5243.emory.edu$0",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "dfdc1a71-1402-4b8e-b471-8bdccd3534d6",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='dfdc1a71-1402-4b8e-b471-8bdccd3534d6' style='height: 82px; width: 396px; font-size: 51.25px; letter-spacing: -23.053571428571427px' data-letter-spacing='-0.058216089466089464'><span id='dfdc1a71-1402-4b8e-b471-8bdccd3534d6' style='font-family: monospace; height: 82px; width: 396px; font-size: 50.67985166872682px'>FOUILLES</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=994,1026,396,82",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "bdcf66f1-56bd-42ac-bc18-1b9edd03d269",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='bdcf66f1-56bd-42ac-bc18-1b9edd03d269' style='height: 80px; width: 150px; font-size: 50.0px; letter-spacing: -23.993288590604028px' data-letter-spacing='-0.1599552572706935'><span id='bdcf66f1-56bd-42ac-bc18-1b9edd03d269' style='font-family: monospace; height: 80px; width: 150px; font-size: 49.44375772558714px'>SUR</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1444,1026,150,80",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "83981239-4982-4d59-88d7-67f55332a073",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='83981239-4982-4d59-88d7-67f55332a073' style='height: 78px; width: 102px; font-size: 48.75px; letter-spacing: -23.68581081081081px' data-letter-spacing='-0.23221383147853736'><span id='83981239-4982-4d59-88d7-67f55332a073' style='font-family: monospace; height: 78px; width: 102px; font-size: 48.20766378244746px'>LE</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1646,1028,102,78",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "54486d1c-73b8-4985-b5b9-bea57773a3e3",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='54486d1c-73b8-4985-b5b9-bea57773a3e3' style='height: 78px; width: 348px; font-size: 48.75px; letter-spacing: -22.100490196078432px' data-letter-spacing='-0.06350715573585757'><span id='54486d1c-73b8-4985-b5b9-bea57773a3e3' style='font-family: monospace; height: 78px; width: 348px; font-size: 48.20766378244746px'>PALATIN</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1802,1028,348,78",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5f40fc6c-2c5c-4955-be27-5d899e7728ae",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5f40fc6c-2c5c-4955-be27-5d899e7728ae' style='height: 28px; width: 105px; font-size: 17.5px; letter-spacing: -8.054635761589404px' data-letter-spacing='-0.07671081677704195'><span id='5f40fc6c-2c5c-4955-be27-5d899e7728ae' style='font-family: monospace; height: 28px; width: 105px; font-size: 17.305315203955498px'>DANS</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1484,1203,105,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b1373d38-3e3a-4982-9e49-7aab9497e40f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b1373d38-3e3a-4982-9e49-7aab9497e40f' style='height: 74px; width: 258px; font-size: 46.25px; letter-spacing: -21.405px' data-letter-spacing='-0.08296511627906977'><span id='b1373d38-3e3a-4982-9e49-7aab9497e40f' style='font-family: monospace; height: 74px; width: 258px; font-size: 45.735475896168104px'>LES</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=714,1322,258,74",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "657cc7df-ae7d-4d85-9feb-8ee780871d64",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='657cc7df-ae7d-4d85-9feb-8ee780871d64' style='height: 74px; width: 602px; font-size: 46.25px; letter-spacing: -19.21590909090909px' data-letter-spacing='-0.03192011476895198'><span id='657cc7df-ae7d-4d85-9feb-8ee780871d64' style='font-family: monospace; height: 74px; width: 602px; font-size: 45.735475896168104px'>JARDINS</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1020,1324,602,74",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c2fbe884-0db5-41f7-900d-1791c8a1397c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c2fbe884-0db5-41f7-900d-1791c8a1397c' style='height: 88px; width: 746px; font-size: 55.0px; letter-spacing: -22.68709677419355px' data-letter-spacing='-0.030411657874254087'><span id='c2fbe884-0db5-41f7-900d-1791c8a1397c' style='font-family: monospace; height: 88px; width: 746px; font-size: 54.388133498145855px'>FARN\u00c8SES</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1670,1312,746,88",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5ee01485-65b1-4e89-ac65-5940068955fb",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5ee01485-65b1-4e89-ac65-5940068955fb' style='height: 29px; width: 281px; font-size: 18.125px; letter-spacing: -7.2840189873417724px' data-letter-spacing='-0.02592177575566467'><span id='5ee01485-65b1-4e89-ac65-5940068955fb' style='font-family: monospace; height: 29px; width: 281px; font-size: 17.923362175525337px'>APPARTENANT</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1425,1504,281,29",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a17ddb0c-2065-4fc8-9ccc-eb95dc411b98",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a17ddb0c-2065-4fc8-9ccc-eb95dc411b98' style='height: 60px; width: 49px; font-size: 37.5px; letter-spacing: -18.414383561643834px' data-letter-spacing='-0.3758037461559966'><span id='a17ddb0c-2065-4fc8-9ccc-eb95dc411b98' style='font-family: monospace; height: 60px; width: 49px; font-size: 37.08281829419035px'>A</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=899,1638,49,60",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e1668b9c-9680-4de5-9ce2-5716539fce52",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e1668b9c-9680-4de5-9ce2-5716539fce52' style='height: 61px; width: 50px; font-size: 38.125px; letter-spacing: -18.72236394557823px' data-letter-spacing='-0.3744472789115646'><span id='e1668b9c-9680-4de5-9ce2-5716539fce52' style='font-family: monospace; height: 61px; width: 50px; font-size: 37.70086526576019px'>S.</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=991,1638,50,61",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4d41b189-1bbf-4846-be8a-19a276f8de14",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='4d41b189-1bbf-4846-be8a-19a276f8de14' style='height: 60px; width: 68px; font-size: 37.5px; letter-spacing: -18.287414965986393px' data-letter-spacing='-0.26893257302921164'><span id='4d41b189-1bbf-4846-be8a-19a276f8de14' style='font-family: monospace; height: 60px; width: 68px; font-size: 37.08281829419035px'>M.</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1086,1640,68,60",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d3faa7cd-2844-4f27-916f-ec71e19a576f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d3faa7cd-2844-4f27-916f-ec71e19a576f' style='height: 62px; width: 465px; font-size: 38.75px; letter-spacing: -16.39423076923077px' data-letter-spacing='-0.035256410256410256'><span id='d3faa7cd-2844-4f27-916f-ec71e19a576f' style='font-family: monospace; height: 62px; width: 465px; font-size: 38.31891223733003px'>L'EMPEREUR</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1199,1638,465,62",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6e216351-f3b7-4e3b-9517-5a095e0b5bf5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6e216351-f3b7-4e3b-9517-5a095e0b5bf5' style='height: 61px; width: 387px; font-size: 38.125px; letter-spacing: -16.54951298701299px' data-letter-spacing='-0.042763599449645966'><span id='6e216351-f3b7-4e3b-9517-5a095e0b5bf5' style='font-family: monospace; height: 61px; width: 387px; font-size: 37.70086526576019px'>NAPOLEON</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1706,1638,387,61",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "981dc962-8b72-47ed-a596-ca19aa587a50",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='981dc962-8b72-47ed-a596-ca19aa587a50' style='height: 59px; width: 97px; font-size: 36.875px; letter-spacing: -17.79083333333333px' data-letter-spacing='-0.18341065292096217'><span id='981dc962-8b72-47ed-a596-ca19aa587a50' style='font-family: monospace; height: 59px; width: 97px; font-size: 36.464771322620514px'>III.</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2136,1639,97,59",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5e7f7ba5-dcbd-4356-befd-a3428cff49ae",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5e7f7ba5-dcbd-4356-befd-a3428cff49ae' style='height: 53px; width: 161px; font-size: 33.125px; letter-spacing: -15.489166666666666px' data-letter-spacing='-0.09620600414078674'><span id='5e7f7ba5-dcbd-4356-befd-a3428cff49ae' style='font-family: monospace; height: 53px; width: 161px; font-size: 32.75648949320148px'>PLAN</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1221,1957,161,53",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "47c3d5fe-7a04-4372-a9d5-54bb00141b32",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='47c3d5fe-7a04-4372-a9d5-54bb00141b32' style='height: 51px; width: 82px; font-size: 31.875px; letter-spacing: -15.383445945945946px' data-letter-spacing='-0.1876029993408042'><span id='47c3d5fe-7a04-4372-a9d5-54bb00141b32' style='font-family: monospace; height: 51px; width: 82px; font-size: 31.520395550061803px'>ET</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1422,1958,82,51",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "59d3730b-2c75-4e05-9a79-a86954eb9f50",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='59d3730b-2c75-4e05-9a79-a86954eb9f50' style='height: 52px; width: 355px; font-size: 32.5px; letter-spacing: -13.959677419354838px' data-letter-spacing='-0.039323034984098136'><span id='59d3730b-2c75-4e05-9a79-a86954eb9f50' style='font-family: monospace; height: 52px; width: 355px; font-size: 32.13844252163164px'>PEINTURES</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1544,1957,355,52",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "afba8961-b6ad-449f-8fc5-ac7aa70d0f93",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='afba8961-b6ad-449f-8fc5-ac7aa70d0f93' style='height: 27px; width: 49px; font-size: 16.875px; letter-spacing: -8.104166666666666px' data-letter-spacing='-0.165391156462585'><span id='afba8961-b6ad-449f-8fc5-ac7aa70d0f93' style='font-family: monospace; height: 27px; width: 49px; font-size: 16.68726823238566px'>DE</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1500,2112,49,27",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c2ba8b39-4617-4f59-9f26-6197e648c8a7",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c2ba8b39-4617-4f59-9f26-6197e648c8a7' style='height: 27px; width: 51px; font-size: 16.875px; letter-spacing: -8.090561224489797px' data-letter-spacing='-0.15863845538215288'><span id='c2ba8b39-4617-4f59-9f26-6197e648c8a7' style='font-family: monospace; height: 27px; width: 51px; font-size: 16.68726823238566px'>LA</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1568,2113,51,27",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ea9c728d-aece-44a6-97a6-d9057d000288",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ea9c728d-aece-44a6-97a6-d9057d000288' style='height: 55px; width: 422px; font-size: 34.375px; letter-spacing: -14.411184210526315px' data-letter-spacing='-0.03414972561736094'><span id='ea9c728d-aece-44a6-97a6-d9057d000288' style='font-family: monospace; height: 55px; width: 422px; font-size: 33.99258343634116px'>MAISON</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=952,2237,422,55",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4540f3d6-4c09-4669-b314-9492f937cbe9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='4540f3d6-4c09-4669-b314-9492f937cbe9' style='height: 55px; width: 731px; font-size: 34.375px; letter-spacing: -12.501602564102564px' data-letter-spacing='-0.017102055491248377'><span id='4540f3d6-4c09-4669-b314-9492f937cbe9' style='font-family: monospace; height: 55px; width: 731px; font-size: 33.99258343634116px'>PATERNELLE</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1439,2236,731,55",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8a3486d3-c751-4cab-bbc0-6d6a63e1e640",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8a3486d3-c751-4cab-bbc0-6d6a63e1e640' style='height: 27px; width: 50px; font-size: 16.875px; letter-spacing: -8.09736394557823px' data-letter-spacing='-0.1619472789115646'><span id='8a3486d3-c751-4cab-bbc0-6d6a63e1e640' style='font-family: monospace; height: 27px; width: 50px; font-size: 16.68726823238566px'>DE</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1532,2396,50,27",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5c9882e7-cecb-44fb-9905-fff441822138",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5c9882e7-cecb-44fb-9905-fff441822138' style='height: 78px; width: 312px; font-size: 48.75px; letter-spacing: -22.32236842105263px' data-letter-spacing='-0.07154605263157894'><span id='5c9882e7-cecb-44fb-9905-fff441822138' style='font-family: monospace; height: 78px; width: 312px; font-size: 48.20766378244746px'>TIB\u00c9RE</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1232,2506,312,78",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1d3cb0ed-40de-488f-ae71-80f36e945c5f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1d3cb0ed-40de-488f-ae71-80f36e945c5f' style='height: 68px; width: 280px; font-size: 42.5px; letter-spacing: -19.39569536423841px' data-letter-spacing='-0.06927034058656575'><span id='1d3cb0ed-40de-488f-ae71-80f36e945c5f' style='font-family: monospace; height: 68px; width: 280px; font-size: 42.02719406674907px'>CESAR</span></span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/canvas/32862204.5243.emory.edu$0",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://127.0.0.1:3000/iiif/v2/32862204.5243.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1592,2516,280,68",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            }
+        }
+    ]
+}
